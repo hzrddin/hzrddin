@@ -1,4 +1,4 @@
-Hi there!! ![wave](https://github.com/user-attachments/assets/5d85c14c-b75d-4443-975c-6ed29c2c0694)
+Hi! ![wave](https://github.com/user-attachments/assets/6085e09e-78c6-4d3b-bbb5-9b67ae441a7e)
 - I’m @hzrddin
 - 👀 I’m new and interested in programming
 - 🌱 I’m currently learning java
