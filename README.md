@@ -2,9 +2,8 @@
 <h3>An aspiring full-stack developer, starting my journey with a passion for coding and creating.</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🎓 IT student from **UUM**
-- 🌱 Currently learning **java**
-
+- 🎓 An IT student from <a href="https://www.uum.edu.my">**UUM**</a>
+- 🌱 A beginner programmer & currently learning **Java**
 
 
 <h3 align="left">Connect with me:</h3>
