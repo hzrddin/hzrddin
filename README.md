@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Haza</h1>
-<h3 align="center">An aspiring full-stack developer, starting my journey with a passion for coding and creating.</h3>
-
+<h1>Hi <img src="https://github.com/user-attachments/assets/d03ca268-10a1-47ce-b815-c661794b9ff3" width = 40px>, I'm Haza</h1>
+<h3>An aspiring full-stack developer, starting my journey with a passion for coding and creating.</h3>
 - 🌱 I’m currently learning **java**
 
 <h3 align="left">Connect with me:</h3>
