@@ -1,15 +1,23 @@
-<h1>Hi <img src="https://github.com/user-attachments/assets/d03ca268-10a1-47ce-b815-c661794b9ff3" width = 40px>, I'm Haza</h1>
-<h3>An aspiring full-stack developer, starting my journey with a passion for coding and creating.</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<h1>Hi <img src="https://github.com/user-attachments/assets/d03ca268-10a1-47ce-b815-c661794b9ff3" width="40px">, I'm Haza</h1>
 
-- 🎓 An IT student from <a href="https://www.uum.edu.my">**UUM**</a>
-- 🌱 A beginner programmer & currently learning **Java**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/haza_mzln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haza_mzln" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h3>An aspiring full-stack developer, starting my journey with a passion for coding and creating.</h3>
+      <ul>
+        <li>🎓 An IT student from <a href="https://www.uum.edu.my">**UUM**</a></li>
+        <li>🌱 A beginner programmer & currently learning **Java**</li>
+      </ul>
+      <h3 align="left">Connect with me:</h3>
+      <p align="left">
+        <a href="https://instagram.com/haza_mzln" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haza_mzln" height="30" width="40" /></a>
+      </p>
+    </td>
+    <td valign="top" width="40%">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%">
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -17,3 +25,4 @@
 </p>
 
 ![Haza's GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=hzrddin&show_icons=true&theme=tokyonight&border_radius=10)
+test
